@@ -3,7 +3,7 @@
 > A simple Python tool to download **all your files, photos, and videos from Yandex.Disk** — preserving folder structure, Cyrillic filenames, and progress tracking.  
 > Originally created to back up an entire archive before canceling a Yandex.Disk subscription and migrating to another cloud provider.
 
-[The link to my article on Medium](https://medium.com/gitconnected/how-i-backed-up-my-entire-yandex-disk-archive-with-python-before-canceling-my-subscription-111b4a9ddec3){:target="_blank"}
+[The link to my article on Medium](https://medium.com/gitconnected/how-i-backed-up-my-entire-yandex-disk-archive-with-python-before-canceling-my-subscription-111b4a9ddec3)
 
 ---
 
